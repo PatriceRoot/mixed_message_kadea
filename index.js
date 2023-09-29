@@ -12,4 +12,4 @@ function randomString() {
 }
 
 //Print result below this line
-
+console.log(randomString());
